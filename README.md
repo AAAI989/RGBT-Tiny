@@ -28,44 +28,44 @@
 ## Benchmark Properties
 
 ### Rich Diversity
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/target_scene.jpg" width="512"/></center><br> 
-Fig. 1 (a) Target distribution in visible and thermal modalities. (b) Scene distribution (inner circle) across different light visions (outer circle). 
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/target_scene.jpg" width="600"/></center>
+Fig. 1 (a) Target distribution in visible and thermal modalities. (b) Scene distribution (inner circle) across different light visions (outer circle). <br> 
 
 ### Large Density Variation
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/density.jpg" width="300"/></center><br> 
-Fig. 2 Density of each sequence. ($x$,$y$,$z$) are the numbers of sequences w.r.t. density levels (i.e., sparse, medium, dense).<br> 
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/density.jpg" width="400"/></center>
+Fig. 2 Density of each sequence. (x,y,z) are the numbers of sequences w.r.t. density levels (i.e., sparse, medium, dense).<br> 
 
 ### Small-Scale Targets
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/scale.jpg" width="250"/></center><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/scale.jpg" width="300"/></center>
 Fig. 3 Size distribution of each target category.<br> 
 
 ### Temporal Occlusion
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/occlusion.jpg" width="180"/></center><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/occlusion.jpg" width="230"/></center>
 Fig. 4 Temporal occlusion (i.e., no occlusion, slight occlusion, moderate occlusion, heavy occlusion).<br> <br> 
 
 ## Evaluation Metric
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/evaluation.jpg" width="512"/></center>
-Fig. 5 An illustration of SAFit measure. (a) Pixels deviation between the center points of GT bbox and predicted bbox. (b) IoU-Deviation curves w.r.t different sizes of bboxes. (c)-(d) SAFit-Deviation curves under different C values. <br><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/evaluation.jpg" width="900"/></center>
+Fig. 5 An illustration of SAFit measure. (a) Pixels deviation between the center points of GT bbox and predicted bbox. (b) IoU-Deviation curves w.r.t different sizes of bboxes. (c)-(d) SAFit-Deviation curves under different C values. <br>
 
 ### SAFit for evaluation
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/dis_iou.jpg" width="512"/></center>
-Fig. 6 Comparisons among different measures for performance evaluation in visible and thermal modalities.<br><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/dis_iou.jpg" width="900"/></center>
+Fig. 6 Comparisons among different measures for performance evaluation in visible and thermal modalities.<br>
 
 ### SAFit loss for training
 SAFit results achieved by ATSS equipped with different losses in visible and thermal modalities of RGBT-Tiny dataset. 
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table00.jpg" width="512"/></center>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table00.jpg" width="900"/></center><br>
 
 SAFit and IoU results achieved by ATSS equipped with different losses in COCO dataset.
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table01.jpg" width="512"/></center><br><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table01.jpg" width="900"/></center><br><br>
 
 ## Baseline Results
 Table 1 SAFit-based results of existing visible detection (V-D), visible SOD (V-SOD), thermal SOD (T-SOD), visible-thermal
 detection methods (VT-D) methods on RGBT-Tiny dataset. 
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table1.JPG" width="512"/></center><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table1.JPG" width="900"/></center><br>
 
 Table 2 IoU-based results of existing visible detection (V-D), visible SOD (V-SOD), thermal SOD (T-SOD), visible-thermal
 detection methods (VT-D) methods on RGBT-Tiny dataset. 
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table2.JPG" width="512"/></center><br><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table2.JPG" width="900"/></center><br><br>
 
 ## Downloads
 Downloads will be released upon acceptance.
