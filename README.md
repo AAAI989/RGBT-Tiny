@@ -53,10 +53,10 @@ Fig. 6 Comparisons among different measures for performance evaluation in visibl
 
 ### SAFit loss for training
 SAFit results achieved by ATSS equipped with different losses in visible and thermal modalities of RGBT-Tiny dataset. 
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table00.jpg" width="1024"/></center><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table00.JPG" width="1024"/></center><br>
 
 SAFit and IoU results achieved by ATSS equipped with different losses in COCO dataset.
-<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table01.jpg" width="1024"/></center><br><br>
+<center><img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/table01.JPG" width="1024"/></center><br><br>
 
 ## Baseline Results
 Table 1 SAFit-based results of existing visible detection (V-D), visible SOD (V-SOD), thermal SOD (T-SOD), visible-thermal
