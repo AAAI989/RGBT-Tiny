@@ -6,23 +6,23 @@
 ## Sample Videos
 
 <center class="half">
-     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0028_5_00_gif.gif" width="512"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0028_5_01_gif.gif" width="512"/>
+     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0028_5_00_gif.gif" width="500"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0028_5_01_gif.gif" width="500"/>
  </center>
 
  <center class="half">
-     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0067_2_00_gif.gif" width="512"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0067_2_01_gif.gif" width="512"/>
+     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0067_2_00_gif.gif" width="500"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0067_2_01_gif.gif" width="500"/>
  </center>
 
  <center class="half">
-     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0075_3_00_gif.gif" width="512"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0075_3_01_gif.gif" width="512"/>
+     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0075_3_00_gif.gif" width="500"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0075_3_01_gif.gif" width="500"/>
  </center>
 
  <center class="half">
-     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0101_2_00_gif.gif" width="512"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0101_2_01_gif.gif" width="512"/>
+     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0101_2_00_gif.gif" width="500"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0101_2_01_gif.gif" width="500"/>
  </center>
 
  <center class="half">
-     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0229_2_00_gif.gif" width="512"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0229_2_01_gif.gif" width="512"/>
+     <img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0229_2_00_gif.gif" width="500"/>&nbsp&nbsp&nbsp<img src="https://raw.github.com/ICCV2023ID10503/RGBT-Tiny/master/pics/DJI_0229_2_01_gif.gif" width="500"/>
  </center><br><br>
 
 ## Benchmark Properties
